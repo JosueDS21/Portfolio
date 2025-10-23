@@ -21,11 +21,15 @@ if page == "About Me":
     st.write("Data Engineer | From building computers to building data systems — always driven by curiosity | Ecuador ")
     
     st.markdown("""
-    Since I was a kid, I always wanted to be a computer scientist — and years later, I made that dream a reality by earning my bachelor’s degree in Computer Science. My fascination with computers started early; at 14, I was learning about hardware, and by 15, I was already building PCs and advising others on the best setups for their needs.
+    I’m Josue Holguin — a passionate, results-driven Data Engineer who turns raw data into powerful insights and intelligent systems. I don’t just work with data — I engineer it into clarity, efficiency, and impact.
 
-    As I grew older, my curiosity shifted toward the world of data — how it flows, how it’s structured, and how it drives decisions. Today, I specialize in data engineering and analytics, working with technologies like Python, SQL, Spark, and Databricks to build data pipelines, ensure data quality, and deliver insights efficiently.
+    With a strong background in Python, SQL, Spark, and Databricks, I’ve mastered the full data lifecycle — from ingestion and transformation to modeling and visualization. My work doesn’t stop at building pipelines; I make sure they run flawlessly, scale intelligently, and deliver real business value.
 
-    I’ve worked in the banking domain, where I’ve gained experience handling complex datasets and ensuring the accuracy and reliability of financial information. I’m passionate about building scalable, clean, and efficient data solutions that empower businesses to make smarter decisions.
+    I’ve worked in the banking domain, where precision and reliability aren’t optional — they’re everything. That experience shaped me into a meticulous problem-solver who thrives on tackling complex data challenges under pressure.
+
+    I believe excellence comes from curiosity and discipline — and I bring both to every project I take on. Whether it’s optimizing performance, cleaning messy datasets, or designing elegant ETL workflows, I do it with the mindset of someone who refuses to settle for average.
+
+    I don’t just focus on getting things done — I focus on getting them done right. My mission is to build data solutions that empower organizations to make smarter, faster, and more confident decisions.
     
     🔍 *Currently seeking*: Data Analyst, Junior Data Scientist, or Data Engineering roles.
     """)
