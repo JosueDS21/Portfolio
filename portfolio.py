@@ -45,6 +45,17 @@ if page == "About Me":
 elif page == "Experience":
     st.title("💼 Professional Experience")
 
+    st.header("Consultant")
+    st.subheader("Genuide S.A. | Guayaquil, Ecuador")
+    st.caption("June 2025 – Present")    
+    st.markdown("""
+    - I designed the technical architecture and cost estimate for a legal chatbot based on generative AI, including web
+    scraping, data processing, language models, API, frontend, and deployment 
+    - I translated and adapted a complete technical course from English to Spanish for Zephyr AI, facilitating
+    knowledge transfer and providing practical exposure to the use and capabilities of AI.  
+    - Analysis and design for online banking payments.
+    """)
+
     st.header("Data Engineer")
     st.subheader("Banco Bolivariano | Guayaquil, Ecuador")
     st.caption("November 2024 – May 2025")
@@ -70,7 +81,7 @@ elif page == "Experience":
     st.markdown("---")
 
     st.header("Banking Core Developer")
-    st.subheader("Genuide S.A. | Guayaquil, Ecuador (Remote)")
+    st.subheader("Genuide S.A. | Guayaquil, Ecuador")
     st.caption("January 2023 – October 2024")    
     st.markdown("**ETL & Core Banking Development (May 2023 – Oct 2024)**")
     st.markdown("""
